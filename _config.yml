@@ -19,7 +19,7 @@ description: Senior Software Engineer, Full Stack Developer, React Redux Develop
 baseurl: "" # the subpath of your site, e.g. /blog
 disqus:
   shortname: alexeyhorn
-url: "https://alexeyhorn.com" # the base hostname & protocol for your site
+url: "http://alexeyhorn.com" # the base hostname & protocol for your site
 twitter_username: alexeyhorn
 github_username:  eyhorn
 
