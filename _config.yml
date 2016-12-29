@@ -17,6 +17,8 @@ title: Alex Eyhorn
 email:
 description: Senior Software Engineer, Full Stack Developer, React Redux Developer
 baseurl: "" # the subpath of your site, e.g. /blog
+disqus:
+  shortname: alexeyhorn
 url: "https://eyhorn.github.io" # the base hostname & protocol for your site
 twitter_username: alexeyhorn
 github_username:  eyhorn
