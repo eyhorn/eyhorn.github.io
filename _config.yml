@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Alex Eyhorn
 email:
-description: Senior Software Engineer, Full Stack Developer, React Redux Developer
+description: Full Stack Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 disqus:
   shortname: alexeyhorn-com
