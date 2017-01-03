@@ -11,6 +11,7 @@ At first I've tried to apply the solution described [Hyphe Blog](https://blog.hy
 but the method for injecting TestScheduler was really helpful.
 
 # Testing the throttling #
+I've created a [plunk](https://embed.plnkr.co/jbusaLl5OdZFRESrVjK0/) to describe the solution.
 {% highlight javascript %}
 var throttleWindowDuration = 2 * 1000; /* 2 seconds */
 
