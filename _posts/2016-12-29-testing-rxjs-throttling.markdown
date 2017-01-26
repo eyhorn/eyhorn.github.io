@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Testing RxJs 4.0 Throttling"
+title:  "Testing RxJs 4.x Throttling"
 date:   2016-12-29 14:52:33 +1100
 categories: javascript rxjs
 ---
@@ -51,7 +51,6 @@ describe('run with test scheduler', function() {
   it('advancing testScheduler allows to test throttling synchronously', function() {
     var throttleTestResult = throttleTest();
 
-    emitCounter = 0;
     //throttled stream will not emit if scheduler clock is at zero
     testScheduler.advanceBy(1);
     throttleTestResult.unthrottledStream.onNext();
