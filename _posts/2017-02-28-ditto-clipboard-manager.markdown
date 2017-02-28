@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ditto Clipboard Manager"
-date:   2017-02-24 9:15:00 +1100
+date:   2017-02-28 9:15:00 +1100
 categories: tools
 ---
 [Ditto Clipboard Manager](http://ditto-cp.sourceforge.net/) is one of those tools that after using it for a little while
