@@ -22,7 +22,7 @@ disqus:
 url: "http://alexeyhorn.com" # the base hostname & protocol for your site
 twitter_username: alexeyhorn
 github_username:  eyhorn
-
+future: true
 # Build settings
 markdown: kramdown
 theme: minima
