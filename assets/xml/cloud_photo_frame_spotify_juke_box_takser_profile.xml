@@ -1,0 +1,90 @@
+<TaskerData sr="" dvi="1" tv="4.9u4m">
+<Profile sr="prof2" ve="2">
+<cdate>1494673207270</cdate>
+<edate>1511932344601</edate>
+<id>2</id>
+<mid0>3</mid0>
+<mid1>5</mid1>
+<nme>Photo Frame / Spotify Juke Box</nme>
+<State sr="con0" ve="2">
+<code>10</code>
+<Int sr="arg0" val="0"/>
+</State>
+<State sr="con1" ve="2">
+<code>30</code>
+<Int sr="arg0" val="0"/>
+</State>
+</Profile>
+<Task sr="task3">
+<cdate>1494674363824</cdate>
+<edate>1511932047132</edate>
+<id>3</id>
+<nme>Play Spotify</nme>
+<pri>100</pri>
+<Action sr="act0" ve="7">
+<code>20</code>
+<App sr="arg0">
+<appClass>com.spotify.music.MainActivity</appClass>
+<appPkg>com.spotify.music</appPkg>
+<label>Spotify</label>
+</App>
+<Str sr="arg1" ve="3"/>
+<Int sr="arg2" val="0"/>
+<Int sr="arg3" val="0"/>
+</Action>
+<Action sr="act1" ve="7">
+<code>20</code>
+<App sr="arg0">
+<appClass>com.bo.fotoo.ui.home.FTHomeActivity</appClass>
+<appPkg>com.bo.fotoo</appPkg>
+<label>Fotoo</label>
+</App>
+<Str sr="arg1" ve="3"/>
+<Int sr="arg2" val="0"/>
+<Int sr="arg3" val="0"/>
+</Action>
+<Action sr="act2" ve="7">
+<code>812</code>
+<Int sr="arg0" val="59"/>
+<Int sr="arg1" val="59"/>
+<Int sr="arg2" val="23"/>
+</Action>
+<Action sr="act3" ve="7">
+<code>443</code>
+<Int sr="arg0" val="5"/>
+<Int sr="arg1" val="1"/>
+<App sr="arg2">
+<appClass>com.spotify.music.MainActivity</appClass>
+<appPkg>com.spotify.music</appPkg>
+<label>Spotify</label>
+</App>
+</Action>
+</Task>
+<Task sr="task5">
+<cdate>1494674363824</cdate>
+<edate>1511644322305</edate>
+<id>5</id>
+<nme>Pause Spotify</nme>
+<pri>100</pri>
+<Action sr="act0" ve="7">
+<code>25</code>
+<Int sr="arg0" val="0"/>
+</Action>
+<Action sr="act1" ve="7">
+<code>812</code>
+<Int sr="arg0" val="0"/>
+<Int sr="arg1" val="5"/>
+<Int sr="arg2" val="0"/>
+</Action>
+<Action sr="act2" ve="7">
+<code>443</code>
+<Int sr="arg0" val="1"/>
+<Int sr="arg1" val="1"/>
+<App sr="arg2">
+<appClass>com.spotify.music.MainActivity</appClass>
+<appPkg>com.spotify.music</appPkg>
+<label>Spotify</label>
+</App>
+</Action>
+</Task>
+</TaskerData>
