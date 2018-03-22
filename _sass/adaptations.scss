@@ -7,3 +7,18 @@
 .image-in-list {
   display: block;
 }
+
+.icon>svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.social-media-list {
+  .icon {
+    padding-right: 5px;
+  }
+
+  li {
+    padding-top: 5px;
+  }
+}
