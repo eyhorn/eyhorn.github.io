@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ignore SpecFlow scenarios and feature by tag for NUnit"
-date:   2018-03-31 11:24:00 +1100
+date:   2018-04-30 11:24:00 +1100
 categories: specflow tests nunit
 ---
 In my earlier [post](/specflow/tests/xunit/2018/02/22/specflow-ignore-scenarios-by-tag-xunit.html) I have described how to ignore SpecFlow scenarios with xUnit runner. Now I want to show how to achieve the same goal for NUnit runner. With xUnit it was possible to skip individual scenarios. With NUnit whole feature can be skipped
