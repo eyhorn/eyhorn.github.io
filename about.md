@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-My name is Alex Eyhorn. I'm senior software engineer at [Leica Biosystems](http://www.leicabiosystems.com/) working out of Melbourne office. At work I'm programming in C# and JavaScript.
+My name is Alex Eyhorn. I'm senior software engineer at [Planet Innovation](https://planetinnovation.com/) working out of Melbourne office. At work I'm programming in C# and JavaScript.
 
 I live with my wife and our two kids in one of the Melbourne's Eastern suburbs. Before making Australia my home I was living in Kyiv, Ukraine.
 
